@@ -17,7 +17,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile.jpg" width="200px">
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile2.png" width="200px">
 </p>
@@ -29,6 +29,16 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web1.png" width="400px">
 </p>
+
+## 🚀 Como executar o projeto
+
+Este projeto é divido em três partes:
+1. Backend (pasta server) 
+2. Frontend (pasta web)
+3. Mobile (pasta mobile)
+
+💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
 
 ### 🛠 Tecnologias
 
